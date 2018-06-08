@@ -5,9 +5,9 @@ A dead simple, random 8-character, universal \"New Unique ID\" string generator,
 ## From the console ([Nodejs >= 8.3.0 required](https://nodejs.org/))
 
 ```
-morpheus:codeid carlos8f$ codeid
+morpheus:codeid carlos8f$ npx codeid
 KGAFJVWR
-morpheus:codeid carlos8f$ codeid
+morpheus:codeid carlos8f$ npx codeid
 YHT3DTAW
 ```
 
