@@ -1,6 +1,6 @@
 {
   "name": "codeid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dead simple, random 8-character, universal \"New Unique ID\" string generator, using uppercase letters and numbers that don't look alike. A.K.A., UUIDs FOR HUMANS.",
   "main": "index.js",
   "bin": {
