@@ -1,0 +1,9 @@
+*.snap
+stage/*
+prime/*
+*.tar.bz2
+parts/*
+.DS_Store
+bot18.config.js
+node_modules
+.tHe-mAn-bEhInD-tHe-cUrTaIn
