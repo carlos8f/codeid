@@ -12,7 +12,7 @@
   "author": "Carlos Rodriguez <carlos@s8f.org>",
   "license": "MIT",
   "dependencies": {
-    "idgen": "^2.0.2"
+    "idgen": "^2.1.0"
   },
   "devDependencies": {},
   "repository": {
