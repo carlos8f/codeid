@@ -31,7 +31,7 @@ console.log('newid', newid)
 Output:
 
 ```
-CVY6VWWG
+newid NJNLEL7H
 ```
 
 Happy hashing ;)

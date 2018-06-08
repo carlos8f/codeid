@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A dead simple, random 8-character, universal \"New Unique ID\" string generator, using uppercase letters and numbers that don't look alike. A.K.A., UUIDs FOR HUMANS.",
   "main": "index.js",
-  "bin": "./codeid.sh",
+  "bin": {
+    "codeid": "./codeid.sh"
+  },
   "scripts": {
     "test": "node test.js"
   },
@@ -11,5 +13,14 @@
   "license": "MIT",
   "dependencies": {
     "idgen": "^2.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos8f/codeid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlos8f/codeid/issues"
+  },
+  "homepage": "https://github.com/carlos8f/codeid#readme"
 }
