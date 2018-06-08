@@ -1,2 +1,2 @@
-var newid = require('codeid')()
+var newid = require('./')()
 console.log('newid', newid)
